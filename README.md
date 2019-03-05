@@ -58,6 +58,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Geoffrey Dorne](https://graphism.fr/), designer
 * [Jean-François Fourmond](https://github.com/jffourmond), développeur freelance
 * [Dimitri Fruit](https://twitter.com/DimitriMorgan), développeur et scrum master
+* [Jean-Michel Gaillard](https://twitter.com/jeanmigaillard), SysAdmin
 * [Benoit Galati](https://github.com/b-galati), développeur
 * [Mathieu Girard](https://twitter.com/matGiWeb), développeur web
 * [Ly-Jia Goldstein](https://twitter.com/Ly_Jia), développeuse
